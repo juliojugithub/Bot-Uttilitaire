@@ -45,4 +45,4 @@ fs.readdir('./Events/', (error, f) => {
 
 
 ////TOKEN DU BOT//////////
-client.login('Njk4OTU3MTU1MDM4MDAzMjYw.XpNZYw._nx4zDdew5g6vZ3Xq161f7kW9Lc')
+client.login('TOKEN DE TON BOT')
