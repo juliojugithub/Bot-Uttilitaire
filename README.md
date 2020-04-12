@@ -4,4 +4,5 @@ Voici un bot Discord Utilitaire en Nodejs
 Oublie pas de changer le token dans  index
 
 
-
+• Utile
+botinfo,channelinfo,serveurinfo,userinfo,
