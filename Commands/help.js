@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 module.exports.run = async(client, message, args) => {
 var sender = message.author
 const help_embed = new Discord.RichEmbed()
-.setTitle('Commandes Graphicoum :')
+.setTitle('Commandes Utilitaire :')
 .setDescription("Je suis un Bot Discord à t'a disposision")
 
 .addField("Prefix :",`**/**`)                                                                                                                               
